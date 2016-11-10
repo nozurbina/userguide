@@ -14,8 +14,8 @@
     </metadata>
   </prolog>
   <body>
-    <p>The <uicontrol>CSS</uicontrol> subtab contains the CSS files that <ph keyref="product"/> uses
-      to render a document in the <uicontrol>Author</uicontrol> mode. In this subtab, you can set
+    <p>The <uicontrol>CSS</uicontrol> tab contains the CSS files that <ph keyref="product"/> uses to
+      render a document in the <uicontrol>Author</uicontrol> mode. In this subtab, you can set
         <term>main</term> and <term>alternate</term> CSS files. When you are editing a document in
       the <uicontrol>Author</uicontrol> mode, you can switch between these CSS files from the
         <uicontrol>Styles</uicontrol> drop-down menu on the <uicontrol>Author Styles</uicontrol>
