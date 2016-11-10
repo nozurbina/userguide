@@ -2,7 +2,7 @@
 <!DOCTYPE task
   PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
 <task id="create-validation-scenario">
-  <title>Creating a New Validation Scenario</title>
+  <title>Creating a Validation Scenario</title>
   <prolog>
     <metadata>
       <keywords>
