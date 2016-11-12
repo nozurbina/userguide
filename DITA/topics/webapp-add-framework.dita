@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="webapp-add-framework">
-  <title>Adding or Removing a Framework</title>
+  <title><?oxy_comment_start author="George Bina" timestamp="20161112T071059+0200" comment="We need to clarify what a framework is - somebody tried to upload the .framework file..."?>Adding
+    or Removing a Framework<?oxy_comment_end?></title>
   <prolog>
     <metadata>
       <keywords>
