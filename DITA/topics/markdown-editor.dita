@@ -72,7 +72,7 @@
               <uicontrol>HTML</uicontrol> tab includes a contextual menu action to <xref
               href="markdown-actions.dita#markdown-actions/export-html">export (convert) the
               Markdown document to HTML</xref>.</li>
-          <li><b>Automatic Validation</b> - As you edit Markdown documents, they are <xref
+          <li><b>Automatic Validation</b> - <xref
               href="markdown-validation.dita#markdown-validation">validated automatically</xref>.
             The conversion engine constantly tries to parse your changes and if a change results in
             an error that prevents the parser from converting the syntax, an error message will be
